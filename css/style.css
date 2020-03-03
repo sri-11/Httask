@@ -1,0 +1,154 @@
+#one{
+    border:5px solid black;
+    font-weight: bold;
+    background-color: rgb(189, 238, 234);
+    width: 96vw;
+    height: 105vh;
+    position: relative;
+    }
+div p:first-child{
+    border:2px solid black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: black;
+    width:15vw;
+    height:20vh;
+    margin-top:0;       
+    position: absolute;
+}
+div p:nth-child(2){
+    border:2px solid black;
+    color: rgb(245, 10, 10);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(241, 245, 14);
+    width:15vw;
+    height:20vh;
+    margin-left:10% ;
+    margin-top: 11%;
+    position: absolute;
+}
+div p:nth-child(3){
+    border:2px solid black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: black;
+    width:15vw;
+    height:20vh;
+    margin-left:17% ;
+    margin-top: 22%;
+    position: absolute;
+}
+div p:nth-child(4){
+    border:2px solid black;
+    color: rgb(245, 10, 10);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(13, 214, 40);
+    width:15vw;
+    height:20vh;
+    margin-left:28% ;
+    margin-top: 33%;
+    position: absolute;
+}
+div p:nth-child(5){
+    border:2px solid black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: black;
+    width:15vw;
+    height:20vh;
+    margin-left:84% ;
+     margin-top:0; 
+    position: absolute;
+}
+div p:nth-child(6){
+    border:2px solid black;
+    color: rgb(245, 10, 10);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(241, 245, 14);
+    width:15vw;
+    height:20vh;
+    margin-left:70% ;
+    margin-top: 11%;
+    position: absolute;
+}
+div p:nth-child(7){
+    border:2px solid black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: black;
+    width:15vw;
+    height:20vh;
+    margin-left:60% ;
+    margin-top: 22%;
+    position: absolute;
+}
+div p:last-child{
+    border:2px solid black;
+    color: rgb(245, 10, 10);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20vh;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(30, 194, 30);
+    width:15vw;
+    height:20vh;
+    margin-left:50% ;
+    margin-top: 33%;
+    position: absolute;
+}
+h1{
+    margin-left:47% ;
+    margin-top: 43%; 
+}
+@media (min-width: 576px) 
+{
+   
+}
+/* 
+// Medium devices (tablets, 768px and up) */
+@media (min-width: 768px)
+ {
+    
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px)
+ { 
+    
+  }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) 
+{   
+    
+ }
+
